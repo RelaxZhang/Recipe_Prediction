@@ -1,0 +1,4 @@
+COMP30027 Machine Learning Assignment 2 Coding Part
+Group Members
+Chi Zhang 1067750: Userid: CHZHANG1
+Lu Liu 1068336: Userid: LIULL3
